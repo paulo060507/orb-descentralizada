@@ -1,0 +1,3 @@
+## Endpoints
+- `/health`
+- `/capture`
